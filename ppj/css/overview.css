@@ -1,0 +1,21 @@
+﻿@charset "UTF-8";
+
+/* 会社概要ページのCSSです */
+
+h2 {
+	margin: 50px 0px 0px 75px;
+}
+
+div#contents p {
+	width: 160px;
+	height: 33px;
+	margin: 150px auto 450px;;
+	font-size: xx-large;
+}
+
+div#pagetop p {
+	width: 960px;
+	height: 12px;
+	margin: 25px 0px;
+	text-align: right;
+}
