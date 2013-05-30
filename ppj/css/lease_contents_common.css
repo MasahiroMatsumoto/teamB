@@ -28,7 +28,6 @@ div#photo h2 + p + p {
 	height: 348px;
 	margin-top: 5px;
 	padding: 5px;
-	border: solid 2px #161515;
 	float: left;
 }
 
@@ -37,7 +36,7 @@ div#photo h2 + p + p {
 /* 間取り図 */
 
 div#plan {
-	margin-top: 82px;
+	margin-top: 92px;
 	float: right;
 }
 

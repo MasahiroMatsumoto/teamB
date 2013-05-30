@@ -84,3 +84,16 @@ div#footer ul + p {
 	left: 540px;
 	bottom: 30px;
 }
+
+
+div#footer ul li + li + li + li + li + li p a {
+	width: 202px;
+	height: 86px;
+	display: block;
+	text-indent: -9999px;
+	background: url('../img/ft_contact.png') 0 0 no-repeat;
+}
+
+div#footer ul li + li + li + li + li + li p a:hover {
+	background: url('../img/ft_contact_hv.png') 0 0 no-repeat;
+}

@@ -8,8 +8,13 @@
 		<link rel="stylesheet" href="./css/pagetop.css" type="text/css">
 		<link rel="stylesheet" href="./css/lease_contents_common.css" type="text/css">
 		<link rel="stylesheet" href="./css/detail_text_my2.css" type="text/css">
+		<link rel="stylesheet" href="css/lightbox.css" type="text/css">
 		<script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
 		<script src="./js/google_maps_my2.js" type="text/javascript"></script>
+		<script src="js/prototype.js" type="text/javascript"></script>  
+		<script src="js/scriptaculous.js?load=effects,builder" type="text/javascript"></script> 
+		<script src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
+		<script src="js/lightbox.js" type="text/javascript"></script>
 	</head>
 
 	<body id="TOP" onload="initialize()">
@@ -65,12 +70,12 @@
 
 					<div id="s_photo">
 						<ul>
-							<li><p><img src="./img/s_my2_01.jpg" alt="写真1"></p></li>
-							<li><p><img src="./img/s_my2_02.jpg" alt="写真2"></p></li>
-							<li><p><img src="./img/s_my2_03.jpg" alt="写真3"></p></li>
-							<li><p><img src="./img/s_my2_04.jpg" alt="写真4"></p></li>
-							<li><p><img src="./img/s_my2_05.jpg" alt="写真5"></p></li>
-							<li><p><img src="./img/s_my2_06.jpg" alt="写真6"></p></li>
+							<li><p><a href="./img/my2_01.jpg" rel="lightbox[roadtrip]"><img src="./img/s_my2_01.jpg" alt="サムネイル1"></a></p></li>
+							<li><p><a href="./img/my2_02.jpg" rel="lightbox[roadtrip]"><img src="./img/s_my2_02.jpg" alt="サムネイル2"></a></p></li>
+							<li><p><a href="./img/my2_03.jpg" rel="lightbox[roadtrip]"><img src="./img/s_my2_03.jpg" alt="サムネイル3"></a></p></li>
+							<li><p><a href="./img/my2_04.jpg" rel="lightbox[roadtrip]"><img src="./img/s_my2_04.jpg" alt="サムネイル4"></a></p></li>
+							<li><p><a href="./img/my2_05.jpg" rel="lightbox[roadtrip]"><img src="./img/s_my2_05.jpg" alt="サムネイル5"></a></p></li>
+							<li><p><img src="./img/s_my2_06.jpg" alt="サムネイル6"></p></li>
 						</ul>
 						<p>MY2レジデンスは1フロア1部屋の広々とした間取りと全室ストックヤード付きの抜群の首脳設備を備えつけております。<br>大阪都心3km圏内でキタとミナミに直結しており、駐輪場付きのファミリー向けのお部屋となっております。<br>ビル下に美容院が入店している他、スーパー・学校・公園なども隣接しておりご家族様の生活をサポートいたします。</p>
 					</div>

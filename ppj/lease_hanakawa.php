@@ -13,8 +13,8 @@
 		<script src="./js/google_maps_hanakawa.js" type="text/javascript"></script>
 		<script src="js/prototype.js" type="text/javascript"></script>  
 		<script src="js/scriptaculous.js?load=effects,builder" type="text/javascript"></script> 
-		<script src="js/jquery-1.7.2.min.js"></script>
-		<script src="js/lightbox.js"></script>
+		<script src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
+		<script src="js/lightbox.js" type="text/javascript"></script>
 
 	</head>
 
@@ -71,12 +71,12 @@
 
 					<div id="s_photo">
 						<ul>
-							<li><p><a href="./img/hanakawa01.jpg" rel="lightbox[roadtrip]"><img src="./img/s_hanakawa01.jpg"></a></p></li>
-							<li><p><a href="./img/hanakawa02.jpg" rel="lightbox[roadtrip]"><img src="./img/s_hanakawa02.jpg"></a></p></li>
-							<li><p><img src="./img/s_hanakawa03.png"></p></li>
-							<li><p><img src="./img/s_hanakawa04.png"></p></li>
-							<li><p><img src="./img/s_hanakawa05.png"></p></li>
-							<li><p><img src="./img/s_hanakawa06.png"></p></li>
+							<li><p><a href="./img/hanakawa01.jpg" rel="lightbox[roadtrip]"><img src="./img/s_hanakawa01.jpg" alt="サムネイル1"></a></p></li>
+							<li><p><a href="./img/hanakawa02.jpg" rel="lightbox[roadtrip]"><img src="./img/s_hanakawa02.jpg" alt="サムネイル2"></a></p></li>
+							<li><p><img src="./img/s_hanakawa03.png" alt="サムネイル3"></p></li>
+							<li><p><img src="./img/s_hanakawa03.png" alt="サムネイル4"></p></li>
+							<li><p><img src="./img/s_hanakawa03.png" alt="サムネイル5"></p></li>
+							<li><p><img src="./img/s_hanakawa03.png" alt="サムネイル6"></p></li>
 						</ul>
 						<p>『モータープール花川』は『ロイヤルユタカ』に隣接しております。<br>全区画屋根付き・夜間照明付きで車にもお客様にも安心で安全です。空き情報に関してはおいがるにお問い合わせください。</p>
 					</div>

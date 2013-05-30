@@ -13,8 +13,8 @@
 		<script src="./js/google_maps_yutaka.js" type="text/javascript"></script>
 		<script src="js/prototype.js" type="text/javascript"></script>  
 		<script src="js/scriptaculous.js?load=effects,builder" type="text/javascript"></script> 
-		<script src="js/jquery-1.7.2.min.js"></script>
-		<script src="js/lightbox.js"></script>
+		<script src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
+		<script src="js/lightbox.js" type="text/javascript"></script>
 
 	</head>
 
@@ -71,12 +71,12 @@
 
 					<div id="s_photo">
 						<ul>
-							<li><p><a href="./img/yutaka01.jpg" rel="lightbox[roadtrip]"><img src="./img/s_yutaka01.jpg"></a></p></li>
-							<li><p><a href="./img/yutaka02.jpg" rel="lightbox[roadtrip]"><img src="./img/s_yutaka02.jpg"></a></p></li>
-							<li><p><a href="./img/yutaka03.jpg" rel="lightbox[roadtrip]"><img src="./img/s_yutaka03.jpg"></a></p></li>
-							<li><p><a href="./img/yutaka04.jpg" rel="lightbox[roadtrip]"><img src="./img/s_yutaka04.jpg"></a></p></li>
-							<li><p><a href="./img/yutaka05.jpg" rel="lightbox[roadtrip]"><img src="./img/s_yutaka05.jpg"></a></p></li>
-							<li><p><a href="./img/yutaka06.jpg" rel="lightbox[roadtrip]"><img src="./img/s_yutaka06.jpg"></a></p></li>
+							<li><p><a href="./img/yutaka01.jpg" rel="lightbox[roadtrip]"><img src="./img/s_yutaka01.jpg" alt="サムネイル1"></a></p></li>
+							<li><p><a href="./img/yutaka02.jpg" rel="lightbox[roadtrip]"><img src="./img/s_yutaka02.jpg" alt="サムネイル2"></a></p></li>
+							<li><p><a href="./img/yutaka03.jpg" rel="lightbox[roadtrip]"><img src="./img/s_yutaka03.jpg" alt="サムネイル3"></a></p></li>
+							<li><p><a href="./img/yutaka04.jpg" rel="lightbox[roadtrip]"><img src="./img/s_yutaka04.jpg" alt="サムネイル4"></a></p></li>
+							<li><p><a href="./img/yutaka05.jpg" rel="lightbox[roadtrip]"><img src="./img/s_yutaka05.jpg" alt="サムネイル5"></a></p></li>
+							<li><p><a href="./img/yutaka06.jpg" rel="lightbox[roadtrip]"><img src="./img/s_yutaka06.jpg" alt="サムネイル6"></a></p></li>
 						</ul>
 						<p>南向きバルコニー日当たり良好です！<br>西淀川区にあるマンション『ロイヤルユタカ』は都心部約3km圏内に位置する快適なアクセス環境です。マンションに隣接した駐車場『モータープール花川』があります。<br>舗装完備で屋根付き、照明もあり、夜も明るく安心です。人にも車にもやさしい、新婚さんにおすすめの賃貸マンションです。</p>
 					</div>
